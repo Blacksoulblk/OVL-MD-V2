@@ -1,8 +1,8 @@
 {
-  "name": "OVL-MD-V2",
+  "name": "𝑳𝑼𝑻𝑪𝑯𝑶-𝑴𝑫-𝑽2",
   "description": "Bot WhatsApp Multi-Device basé sur Baileys",
-  "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
-  "logo": "https://files.catbox.moe/lojrxz.jpg",
+  "keywords": ["Brel", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
+  "logo": "https://files.catbox.moe/1yvocm.jpg",
   "repository": "https://github.com/Ainz-devs/OVL-MD-V2",
   "success_url": "/",
   "stack": "container",
@@ -14,12 +14,12 @@
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "𝑳𝑼𝑻𝑪𝑯𝑶",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "242055617560",
       "required": true
     },
     "MODE": {
@@ -29,12 +29,12 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "ovl",
+      "value": "Ovl-MD_knuYcEVm_SESSION-ID",
       "required": true
     },
     "DATABASE": {
       "description": "Lien de la base de données PostgreSQL",
-      "value": "",
+      "value": "postgresql://brel_database_mdpl_user:LBgcVQIzXyYrSSG1JVPqeAu2Fo9l0O3t@dpg-d22136h5pdvs738frl90-a.oregon-postgres.render.com/brel_database_mdpl",
       "required": false
     },
     "LEVEL_UP": {
@@ -44,12 +44,12 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "Wa-sticker",
+      "value": "𒉭  𝘽-𝙇𝙄𝙊𝙉𝙀𝙇 🥷🏼           ༽",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "𒉭  𝘽-𝙇𝙄𝙊𝙉𝙀𝙇 🥷🏼           ༽",
       "required": false
     }
   },
